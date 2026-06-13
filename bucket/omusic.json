@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Reproductor de música TUI que usa YouTube vía yt-dlp y mpv",
     "homepage": "https://github.com/AlexCas/omtube",
     "license": "MIT",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlexCas/omtube/releases/download/v0.2.0/omusic_0.2.0_windows_amd64.tar.gz",
-            "hash": "91e1d5b14e6348186aa95a6cdfdcb240af445ed2ca1b4cef5a3dab6019aed913",
+            "url": "https://github.com/AlexCas/omtube/releases/download/v0.2.1/omusic_0.2.1_windows_amd64.tar.gz",
+            "hash": "5d56dac8b20b6931c54395b29514e0d2b8fe74aafd293b89049156456023eea0",
             "bin": "omusic.exe"
         }
     }
